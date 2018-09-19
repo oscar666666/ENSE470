@@ -23,7 +23,7 @@ http://www2.cs.uregina.ca/~fishe29d/sourceO2/frontend/pages/allusers/login.php
 - [x] <a href="https://github.com/OmegaHelix/ENSE470/blob/master/Milestone6/Milestone%206.pptx">Milestone 6 Report Out</a>
   - <a href="https://github.com/OmegaHelix/ENSE470/tree/master/sourceHercules">Test validation and project delivery</a>
   - March 29th, 2018
-- [ ] Milestone 7 Report Out
+- [x] Milestone 7 Report Out
   - Code swap and refactoring/quality report
   - April 12th, 2018
 ## Group Members:
